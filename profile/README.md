@@ -22,7 +22,7 @@
 我们非常欢迎您对我们的项目做出贡献！无论您是想修复一个bug，添加新功能，还是改进文档，您的帮助都是非常重要的。  
   
 - 首先，请查看我们的[贡献指南](https://github.com/ClouderyStudio/.github/CONTRIBUTING.md)，以确保您的贡献符合我们的期望和标准。  
-- 如果您还不确定从哪里开始，您可以查看我们的[待办事项列表](https://github.com/ClouderyStudio/.github/issues)，找到您感兴趣的问题或功能请求。  
+- 如果您还不确定从哪里开始，您可以查看我们的[Issues](https://github.com/ClouderyStudio/.github/issues)，找到您感兴趣的问题或功能请求。  
 - 提交一个pull request之前，请确保您的更改已经通过了本地测试，并且您已经添加了必要的文档和测试。  
   
 ## 📞 联系方式  
