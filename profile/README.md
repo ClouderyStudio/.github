@@ -14,7 +14,7 @@
 ### 云术官网
   
 - 🖊 描述：云术工作室官方网站，使用Next.js与Shadcn/ui构建
-- 🔗 链接：https://github.com/ClouderyStudio/ClouderyOfficalSite
+- 🔗 链接：https://github.com/ClouderyStudio/ClouderyOfficialSite
 - ❓ 状态：✔ 活跃  
   
 ## ✨ 如何贡献  
