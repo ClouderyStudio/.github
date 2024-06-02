@@ -8,7 +8,7 @@
   
 - [云竹](https://github.com/yunzhu666)  
 - [MagicQiyi](https://github.com/MagicalQiyi)
-- [TmatsukiRui](https://github/Tmatsukirui)
+- [TmatsukiRui](https://github.com/Tmatsukirui)
   
 ## 👀 项目列表
   
