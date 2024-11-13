@@ -7,7 +7,7 @@
 ## 😎 团队成员  
   
 - [云竹](https://github.com/yunzhu666)  
-- [MagicQiyi](https://github.com/MagicalQiyi)
+- [柒屹](https://github.com/JustQiyi)
 - [TmatsukiRui](https://github.com/Tmatsukirui)
   
 ## 👀 项目列表
