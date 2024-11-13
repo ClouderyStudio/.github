@@ -15,13 +15,13 @@
 ### 云术官网
   
 - 🖊 描述：云术工作室官方网站，使用Next.js与Shadcn/ui构建
-- 🔗 链接：https://github.com/ClouderyStudio/ClouderyOfficialSite
+- 🔗 链接：https://github.com/ClouderyStudio/ClouderySite
 - ❓ 状态：✔ 活跃  
 
 ### 云竹网络官网
   
 - 🖊 描述：《我的世界》云竹网络互通服务器官方网站，使用Vue2构建
-- 🔗 链接：https://github.com/ClouderyStudio/BCNSOfficialSite
+- 🔗 链接：https://github.com/ClouderyStudio/BambooPixelSite
 - ❓ 状态：✔ 活跃  
   
 ## ✨ 如何贡献  
