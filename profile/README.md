@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/e5cff8f9-898e-4c21-b7cb-5cb6dc2c68f7" width=400 height=112></img>
 
-![官网](https://img.shields.io/badge/WEBSITE-blue?style=for-the-badge&link=https%3A%2F%2Fcldery.com)
+<a href="https://cldery.com">![官网](https://img.shields.io/badge/WEBSITE-blue?style=for-the-badge)</a>
 ![国家](https://img.shields.io/badge/COUNTRY-China-red?style=for-the-badge)
 ![主要语言](https://img.shields.io/badge/LANGUAGE-Chinese-%23097969?style=for-the-badge)
 
