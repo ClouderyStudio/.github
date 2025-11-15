@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e5cff8f9-898e-4c21-b7cb-5cb6dc2c68f7" width="400" alt="Cloudery Studio Logo">
-  
-  <p>
+  <!--<img src="https://github.com/user-attachments/assets/e5cff8f9-898e-4c21-b7cb-5cb6dc2c68f7" width="400" alt="Cloudery Studio Logo">-->
+  <img width="400" alt="cloudery-logo-vtuber" src="https://github.com/user-attachments/assets/944b5acf-8ac2-46a3-ae16-f06cfa14513f" />
     <a href="https://cldery.com">
       <img src="https://img.shields.io/badge/WEBSITE-blue?style=for-the-badge" alt="官网">
     </a>
     <img src="https://img.shields.io/badge/COUNTRY-China-red?style=for-the-badge" alt="国家">
     <img src="https://img.shields.io/badge/LANGUAGE-Chinese-%23097969?style=for-the-badge" alt="主要语言">
-  </p>
 </div>
 
 ## 🌟 关于我们
